@@ -1,0 +1,147 @@
+
+body{
+    padding: unset;
+    background-image: url("b.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: auto;
+
+}
+a{
+    color: #fff;
+    padding-top: 0.5%;
+    padding-bottom: 0.52%;
+    display: inline-block;
+    text-decoration: none;
+    
+    
+}
+header{
+     padding: 5%;
+    display: inline;
+    color: #fff;
+    
+   
+}
+.logo{
+    float: left;
+    padding: 1%;
+    
+}
+.navigation a:link{
+    color: #fff;
+    display: inline; 
+    padding-left: 3%;
+    padding-right: 3%;
+    float: right ;
+    margin: unset;
+    text-decoration: none;
+
+}    
+.navigation a:hover{
+    color:red;
+    text-decoration: none;
+    
+}
+.name1{
+    color: #fff;
+    padding-top: 15% ;
+    margin-left: 10%;
+    font-size:2rem;
+    
+}
+
+.name1a{
+    font-size: 2em;
+    
+}
+
+.b1{
+    color: #fff;
+    margin: auto;
+    position: relative;
+    margin-top: 15%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 15%;
+    padding-right: 5%;
+    text-transform: uppercase;
+    background-image: url("b1.jpg");
+    
+}
+.b1a{
+    height: 2rem;
+    float: left;
+    margin-left: 10%;
+    text-align: start;
+}
+.b1b{
+    height: 50px;
+    width: 400px;
+    float: right;
+    
+    margin-right: 5%;
+    text-transform: none;
+    
+}
+h3{
+    font-size: 40px;
+    text-align: center;
+}
+.b1b h2{
+    font-size: 60px;
+    display: inline;
+    
+} 
+.year{
+    float: right;
+    font-size: 10px;
+    padding-right: 55%;
+    padding-top: 5%;
+}
+.workedfor{
+    text-align: center;
+    padding-top: 5%;
+    color: #fff;
+    
+}
+.box1{
+    border: rgba(82, 80, 80, 0.658);
+    border-style: groove;
+    height: 250px;
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    padding-top: 8%;
+    padding-bottom: 1%;
+    background-image: url(b1.jpg);
+    display: inline-block;
+}
+.end{
+    background-image: url(b1.jpg);
+    color: #fff;
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-left: 5%;
+    text-transform: uppercase;
+    text-align: center;
+} 
+
+.end nav{
+    padding-bottom:4%;
+}
+.end a{
+    padding-left: 2%;
+}
+
+.button{
+    background: linear-gradient(90deg,#c801a7,#d3114b);
+    border: rgba(151, 24, 130, 0.658);
+    border-style: groove;
+  
+    
+}
